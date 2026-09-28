@@ -1,0 +1,14 @@
+fastapi
+    uvicorn
+    python-dotenv
+    mysql-connector-python
+    pydantic
+    ```
+
+### Cách vận hành:
+1.  Kích hoạt `venv`: `source venv/bin/activate`.
+2.  Chạy lệnh: `python3 main.py`.
+3.  Mở trình duyệt truy cập: `[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)`. Bạn sẽ thấy **Swagger UI** xuất hiện cực kỳ chuyên nghiệp.
+4. Mã khởi động BE : "uvicorn main:app --reload " 
+5.  Mã khởi động SQL Bench : "sudo /usr/local/mysql/support-files/mysql.server start"
+

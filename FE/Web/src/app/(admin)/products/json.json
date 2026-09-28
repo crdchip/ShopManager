@@ -1,0 +1,19 @@
+{
+    "nameProduct": "Bia Sài Gòn Lager Lon 330ml",
+    "idCategory": "f905d5ef-0e69-4130-a936-bde66e9bed53",
+    "idSuppliers": "5b13ded2-aafa-4b0a-b971-a70eec08b51f",
+    "description": "jhgjhgj7698",
+    "minStock": 10,
+    "currentStock": 10,
+    "imageProduct": "",
+    "product_units": [
+        {
+            "idUnit": "c7943930-a5b0-4db5-8c75-73cd3ea725c7",
+            "unitSku": "8934822201223",
+            "conversionFactor": 1,
+            "unitPrice": 18000,
+            "purchasePrice": 0,
+            "isBaseUnit": true
+        }
+    ]
+}
